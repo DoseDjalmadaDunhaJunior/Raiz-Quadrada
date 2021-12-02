@@ -29,7 +29,7 @@ float raizCubica(float valor, float chute) {
 
 int main()
 {
-    //cout << raizQuadrada(25, 2)<<endl;
+    cout << raizQuadrada(25, 2)<<endl;
     cout << raizCubica(1000, 9) << endl;
     //cout << "Hello World!\n";
 }
